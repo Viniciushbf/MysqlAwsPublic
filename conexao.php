@@ -1,9 +1,9 @@
 <?php
 
-$hostname="almo.c7f6l0ktgolz.us-east-1.rds.amazonaws.com";
+$hostname="awsmysql.c7f6l0ktgolz.us-east-1.rds.amazonaws.com";
 $user = "admin";
 $password ="admin123";
-$database ="almo";
+$database ="cad";
 $conexao = mysqli_connect($hostname,$user,$password,$database);
 
 if(!$conexao){
