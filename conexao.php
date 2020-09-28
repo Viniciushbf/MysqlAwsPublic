@@ -1,6 +1,6 @@
 <?php
 
-$hostname="awsmysql.c7f6l0ktgolz.us-east-1.rds.amazonaws.com";
+$hostname="mysqlwin.c7f6l0ktgolz.us-east-1.rds.amazonaws.com";
 $user = "admin";
 $password ="admin123";
 $database ="almo";
